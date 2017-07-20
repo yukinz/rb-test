@@ -1,0 +1,27 @@
+Welcome to Shapes
+How big do you want your shapes? 10
+Outside letter: x
+Inside Letter: o
+About to draw a shape 10 big
+using x for the edge
+and o for the inside
+         xx
+        xoox
+       xoooox
+      xoooooox
+     xoooooooox
+    xoooooooooox
+   xoooooooooooox
+  xoooooooooooooox
+ xoooooooooooooooox
+xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx
+xoooooooooooooooooox
+xoooooooooooooooooox
+xoooooooooooooooooox
+xoooooooooooooooooox
+xoooooooooooooooooox
+xoooooooooooooooooox
+xoooooooooooooooooox
+xoooooooooooooooooox
+xxxxxxxxxxxxxxxxxxxx
